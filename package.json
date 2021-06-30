@@ -9,6 +9,7 @@
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
+  {
   "author": "Tino Musikavanhu,
   "license": "MIT",
   "dependencies": {
